@@ -1,5 +1,12 @@
 # runed
 
+## 0.27.1
+
+### Patch Changes
+
+- fix: use `createSubscriber` for `ElementSize` util
+  ([#254](https://github.com/svecosystem/runed/pull/254))
+
 ## 0.27.0
 
 ### Minor Changes
